@@ -1,0 +1,10 @@
+# ADK Course - Agent Development Kit Dependencies
+
+# Core Dependencies
+google-adk>=1.12.0
+litellm>=1.76.0
+streamlit>=1.49.1
+python-dotenv>=1.0.0
+
+# Additional useful packages
+# (Add any other dependencies below as needed)
